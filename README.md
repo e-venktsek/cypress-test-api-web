@@ -18,7 +18,7 @@ npm link
 npm link cypress-cucumber-preprocessor
 ```
 
-## Running tests
+## Running tests.
 You have to run the following command to run the test
 ```bash
 npx cypress open - To run the test in browser
